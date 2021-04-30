@@ -860,13 +860,13 @@ body {
   height: 600px;
 }
 
-.whatsapp {
+.viber {
   position: fixed;
   bottom: 20px;
   right: 30px;
 }
 
-.whatsapp img {
+.viber img {
   width: 45px;
   height: 45px;
 }
